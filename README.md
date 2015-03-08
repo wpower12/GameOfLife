@@ -3,7 +3,7 @@ Simple implementation of Conway's cellular autonoma.  Very early attempt at prog
 
 A working copy for windows can be found here: https://www.dropbox.com/s/f4bdes3u4ssp9e7/GoL.zip?dl=0
 
-Admissions Portfolio - Topics Studied
+####Admissions Portfolio - Topics Studied
 * C++
 * Command Line compiling, makefiles
 * Cellular Autonoma
